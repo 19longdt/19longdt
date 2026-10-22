@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @19longdt
-- 🌱 I’m currently learning in FPT University - Hoa Lac Campus
-- 🌟 Internship at the Technology Villages 1, Software Area, in Hoa Lac Hi-tech Park, Hanoi, Vietnam | 14 weeks.
-- 📫 Reach me on 19longdt@gmail.com, [fb] [Tuan Long Do](https://www.facebook.com/19longdt), [ig] [19longdt](https://www.instagram.com/19longdt).
+
